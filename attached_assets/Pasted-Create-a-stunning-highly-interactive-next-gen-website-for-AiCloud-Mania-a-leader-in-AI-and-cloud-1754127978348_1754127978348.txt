@@ -1,0 +1,69 @@
+Create a stunning, highly interactive next-gen website for “AiCloud Mania,” a leader in AI and cloud tech solutions.
+Reference:
+Draw direct inspiration from https://www.athinfosys.com/# for sleek layouts, movement, and color palette—but take it further with advanced visuals, effects, and modern UI/UX trends.
+
+Required Website Features & Style
+Landing/Homepage:
+
+Hero section with animated backgrounds (eg. particle, mesh, or parallax effects), bold futuristic headline, and captivating call-to-action.
+
+Intro animation with subtle 3D/glass UI components.
+
+Dynamic showcase tiles for: AI Cloud Solutions, DevOps, SaaS, Digital Marketing, Blockchain, etc.—each with hover, tilt, or animated reveal.
+
+Client logo marquee or floating badges; interactive demo/contact button.
+
+Navigation/Structure:
+
+Glassmorphism or blur effects on sticky navigation bar.
+
+Animated dropdown menus with icons.
+
+About/Company:
+
+Motion timeline or horizontal scrolling company milestones.
+
+Carousel (slider) for team/leadership images with layered color/shape accents.
+
+Vibrant section transitions (fade, scale, morph).
+
+Services/Solutions:
+
+Grid or card layout (with shadow, glass, or neon effects), animated icons, expandable details on click/hover, and modals for deep dives.
+
+Industry applications with illustrated data or infographic elements.
+
+Products/Showcase:
+
+Modern SaaS product slider; animated call-to-action (“Request Demo”).
+
+Case studies/testimonials as looping cards or auto-scroll carousel.
+
+Blog/Insights:
+
+Card-based posts, animated category filters, and featured article highlight.
+
+Contact:
+
+Fullscreen or pop-up form with rich validation, animated map integration, clickable social icons, and vivid feedback/success animations.
+
+Footer:
+
+Multi-column, animated or expanding quick links, bright social icons, and legal/policy pages.
+
+Visual & Technical Requirements
+Visuals: Tech-inspired gradients (electric blue, cyan, violet, black); glassmorphism, neon highlights, depth/light layering; custom futuristic or cyberpunk-style icons.
+
+Interactivity: Micro-animations, smooth page transitions, hover/motion effects everywhere; Lottie or SVG animations allowed.
+
+Performance: Responsive, fast, and optimized for all devices.
+
+Tech Stack: React/Next.js (preferred), modular code, CSS modules/styled-components, NO inline styles, or plain HTML/CSS/JS with clear separation and comments.
+
+Accessibility: Fully accessible structure, alt text, and keyboard navigation.
+
+Content Tone
+Polished, visionary, client-focused—favor action words, futuristic outlook, and simple explanations.
+
+Instructions:
+Generate the full site code, all main pages (Home, About, Services/Solutions, Products, Blog, Contact), and core components as described, using advanced UI as shown above and in https://www.athinfosys.com/#. Emphasize visual impact, animation, and interactive experience.
